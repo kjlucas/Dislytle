@@ -1,0 +1,1074 @@
+[
+  {
+    "name": "Abigail",
+    "godName": "Frigga",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Adrina",
+    "godName": "Chantico",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Ahmed",
+    "godName": "Geb",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Ain",
+    "godName": "Ptah",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Alexa",
+    "godName": "Aphrodite",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Alice",
+    "godName": "Gullveig",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Alolin",
+    "godName": "Pazuzu",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Mesopotamian"
+  },
+  {
+    "name": "Anesidora",
+    "godName": "Pandora",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Anna",
+    "godName": "Persephone",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Arcana",
+    "godName": "Hermes",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Archibald",
+    "godName": "Mictlāntēcutli",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Asenath",
+    "godName": "Nefertem",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Ashley",
+    "godName": "Heimdall",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Aurelius",
+    "godName": "Ullr",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Bai Liuli",
+    "godName": "White Snake",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Bardon",
+    "godName": "Baldr",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Berenice",
+    "godName": "Bastet",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Biondina",
+    "godName": "Poseidon",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Bonnie",
+    "godName": "Eris",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Brewster",
+    "godName": "Garmr",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Brynn",
+    "godName": "Valkyrie",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Camille",
+    "godName": "Hati",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Cang Ji",
+    "godName": "Cang jie",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Catherine",
+    "godName": "Hela",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Cecilia",
+    "godName": "Isis",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Celine",
+    "godName": "Siren",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Chalmers",
+    "godName": "Idun",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Chang Pu",
+    "godName": "Yao Ji",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Chloe",
+    "godName": "Medea",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Clara",
+    "godName": "Hera",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Daniel",
+    "godName": "Chiron",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "David",
+    "godName": "Jason",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Daylon",
+    "godName": "Sobek",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Dhalia",
+    "godName": "Calypso",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Djoser",
+    "godName": "Atum",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Donar",
+    "godName": "Thor",
+    "role": "Defender",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Drew",
+    "godName": "Anubis",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Eira",
+    "godName": "Freya",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Elaine",
+    "godName": "Nyx",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Elliot",
+    "godName": "Thoth",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Embla",
+    "godName": "Ymir",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Emma",
+    "godName": "Jade Rabbit",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Ethan",
+    "godName": "Pan",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Everett",
+    "godName": "Tyr",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Fabrice",
+    "godName": "Freyr",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Falken",
+    "godName": "Horus",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Farrah",
+    "godName": "Abzu & Tiamat",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Mesopotamian"
+  },
+  {
+    "name": "Fatum Sisters",
+    "godName": "Nornir",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Feng Nuxi",
+    "godName": "Nuwa",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Freddy",
+    "godName": "Fenrir",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Gabrielle",
+    "godName": "Njord",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Gaius",
+    "godName": "Zeus",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Ginny",
+    "godName": "Hestia",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Hailey",
+    "godName": "Hephaestus",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Hall",
+    "godName": "Hodur",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Helena",
+    "godName": "Helen",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Heng Yue",
+    "godName": "Chang'e",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Hilda",
+    "godName": "Hypnos",
+    "role": "Controller",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Hyde",
+    "godName": "Hades",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Ife",
+    "godName": "Meretseger",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Intisar",
+    "godName": "Kauket",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Jacob",
+    "godName": "Jormungand",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Javid",
+    "godName": "Shamash",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Mesopotamian"
+  },
+  {
+    "name": "Jeanne",
+    "godName": "Gerd",
+    "role": "Controller",
+    "element": "Flow",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Jiang Jiuli",
+    "godName": "Chiyou",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Jiang Man",
+    "godName": "Meng Po",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Jin Qiu",
+    "godName": "Ru Shou",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Jin Yuyao",
+    "godName": "Queen Mother",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Jin-hee",
+    "godName": "Dokkaebi",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Korean"
+  },
+  {
+    "name": "Kara",
+    "godName": "Serket",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Kaylee",
+    "godName": "Anuket",
+    "role": "Controller",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Koharu",
+    "godName": "Ame-no-Uzume",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Japanese"
+  },
+  {
+    "name": "Laura",
+    "godName": "Neith",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Lauren",
+    "godName": "Heket",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Layla",
+    "godName": "Medjed",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Leon",
+    "godName": "Vali",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Shadow Decree",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Leora",
+    "godName": "Athena",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Lewis",
+    "godName": "Ares",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Li Ao",
+    "godName": "Tao Tie",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Li Guang",
+    "godName": "Vermilion Bird",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Li Ling",
+    "godName": "Nezha",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Liam",
+    "godName": "Xolotl",
+    "role": "Defender",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Lian",
+    "godName": "Jiao Tu",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Lin Xiao",
+    "godName": "White Tiger",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Long Mian",
+    "godName": "Ao Bing",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Lu Yi",
+    "godName": "Dayi",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Lucas",
+    "godName": "Apollo",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Luo Yan",
+    "godName": "Yanlou Wang",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Lynn",
+    "godName": "Hathor",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Mateo",
+    "godName": "Prometheus",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Mavis",
+    "godName": "Mictēcacihuātl",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Mei",
+    "godName": "Kaya-no-hime",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Japanese"
+  },
+  {
+    "name": "Melanie",
+    "godName": "Medusa",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Meredith",
+    "godName": "Scylla",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Mona",
+    "godName": "Artemis",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Narmer",
+    "godName": "Ra",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Nick",
+    "godName": "Magni",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Nicole",
+    "godName": "Nephthys",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Norah",
+    "godName": "Muse",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Odette",
+    "godName": "Skadi",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Ollie",
+    "godName": "Osiris",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Ophelia",
+    "godName": "Thanatos",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Parmi",
+    "godName": "Ninsun",
+    "role": "Controller",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Mesopotamian"
+  },
+  {
+    "name": "Pritzker",
+    "godName": "Mimir",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Q",
+    "godName": "Eros",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Raven",
+    "godName": "Odin",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Ren Si",
+    "godName": "Black Tortoise",
+    "role": "Defender",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Sachiko",
+    "godName": "Shirousagi no Inaba",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Japanese"
+  },
+  {
+    "name": "Sally",
+    "godName": "Sif",
+    "role": "Support",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Sander",
+    "godName": "Set",
+    "role": "Controller",
+    "element": "Inferno",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Sienna",
+    "godName": "Gaia",
+    "role": "Support",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Stewart",
+    "godName": "Dionysus",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Tang Xuan",
+    "godName": "Sun Wukong",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Tang Yun",
+    "godName": "Six-Eared Marque",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Taylor",
+    "godName": "Hercules",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Greek"
+  },
+  {
+    "name": "Tevor",
+    "godName": "Sphinx",
+    "role": "Fighter",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Tiye",
+    "godName": "Nut",
+    "role": "Controller",
+    "element": "Flow",
+    "affiliation": "Esper Union",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Toland",
+    "godName": "Tezcatlipoca",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Triki",
+    "godName": "Loki",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Norse"
+  },
+  {
+    "name": "Uday",
+    "godName": "Sopdet",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Shadow Decree",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Unas",
+    "godName": "Shu",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Unky Chai",
+    "godName": "Yue Lao",
+    "role": "Support",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Valeria",
+    "godName": "Quetzalcoatl",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Aztec"
+  },
+  {
+    "name": "Xiao Yin",
+    "godName": "Azure Dragon",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Xie Chuyi",
+    "godName": "Dath Guard Hei",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Xie Yuzhi",
+    "godName": "Death Guard Bai",
+    "role": "Controller",
+    "element": "Wind",
+    "affiliation": "Shadow Decree",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Xuan Pin",
+    "godName": "Jiutain Xuannu",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Yamato",
+    "godName": "Izanagi",
+    "role": "Defender",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Japanese"
+  },
+  {
+    "name": "Ye Suhua",
+    "godName": "Shao Siming",
+    "role": "Support",
+    "element": "Shimmer",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Yun Chuan",
+    "godName": "Yang Jian",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Esper Union",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Yuuhime",
+    "godName": "Izanami",
+    "role": "Fighter",
+    "element": "Inferno",
+    "affiliation": "Wanderer",
+    "mythology": "Japanese"
+  },
+  {
+    "name": "Zelmer",
+    "godName": "Sekhmet",
+    "role": "Fighter",
+    "element": "Wind",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  },
+  {
+    "name": "Zhong Nan",
+    "godName": "Zhong Kui",
+    "role": "Controller",
+    "element": "Shimmer",
+    "affiliation": "Wanderer",
+    "mythology": "Chinese"
+  },
+  {
+    "name": "Zora",
+    "godName": "Amunet",
+    "role": "Fighter",
+    "element": "Flow",
+    "affiliation": "Wanderer",
+    "mythology": "Egyptian"
+  }
+]
