@@ -569,7 +569,7 @@
   },
   {
     "name": "Koharu",
-    "godName": "Ame-no-Uzume",
+    "godName": "Ame no Uzume",
     "role": "Support",
     "element": "Inferno",
     "affiliation": "Wanderer",
@@ -729,7 +729,7 @@
   },
   {
     "name": "Mei",
-    "godName": "Kaya-no-hime",
+    "godName": "Kaya no hime",
     "role": "Fighter",
     "element": "Inferno",
     "affiliation": "Esper Union",
@@ -993,7 +993,7 @@
   },
   {
     "name": "Xie Chuyi",
-    "godName": "Dath Guard Hei",
+    "godName": "Death Guard Hei",
     "role": "Fighter",
     "element": "Flow",
     "affiliation": "Shadow Decree",
